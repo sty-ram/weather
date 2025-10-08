@@ -1,5 +1,6 @@
-Folder Structure for weather web app using flask and weather api
- 
+# Folder Structure for weather web app using Flask and Weather API
+
+```text
 flask_weather_app/
 │
 ├── .env                    
