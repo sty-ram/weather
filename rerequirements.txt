@@ -1,0 +1,8 @@
+pip install flask flask_sqlalchemy flask_bcrypt flask_login requests
+Flask
+Flask-SQLAlchemy
+Flask-Bcrypt
+Flask-Login
+python-dotenv
+requests
+
