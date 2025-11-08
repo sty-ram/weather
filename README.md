@@ -21,3 +21,5 @@ flask_weather_app/
     ├── dashboard.html
     ├── weather.html
     └── manage_users.html
+
+# weather api post method
